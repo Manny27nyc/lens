@@ -14,6 +14,7 @@
 * Allow `makeWrapped` to accept the names of data constructors. This way,
   `makeWrapped` can be used with data family instances, much like other
   functions in `Control.Lens.TH`.
+* Allow building with `transformers-0.6.*` and `mtl-2.3.*`.
 
 5.1 [2021.11.15]
 ----------------
